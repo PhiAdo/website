@@ -4,18 +4,39 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Ibero-Romance pronominal syntax\nDifferential object marking\nSecond-language acquisition\nStatistical data modelling\nNatural language processing\nForensic linguistics\nExperimental and corpus linguistics\nPsycholinguistics\nSyntax–semantics and syntax–discourse interfaces\n\n\n\n\n\n\n\n\n\n\nDownload CV\n\n\n\n\n\n\n\nOutside research, I’m usually happiest outdoors. I love inline skating, running, and cycling along the Danube as well as hiking in the Alps. When the weather turns colder, I switch to swimming, bouldering, and skiing.\nI’m also a huge fan of photography and usually take my camera wherever I go."
+    "text": "Ibero-Romance pronominal syntax\nDifferential object marking\nSecond-language acquisition\nNatural language processing\nForensic linguistics\nExperimental and corpus linguistics\nSyntax–semantics and syntax–discourse interfaces\n\n\n\n\n\n\n\n\n\n\n\n2025–present: PhD in Romance Linguistics, University of Vienna. My dissertation examines direct object omission in Peninsular Spanish using quantitative methods.\n2018–2024: Staatsexamen Lehramt Gymnasium in Spanish and English, Catholic University of Eichstätt-Ingolstadt.\n2018–2023: BA in Romance Linguistics, Catholic University of Eichstätt-Ingolstadt.\n\n\n\n\nMy research combines corpus compilation and annotation with acceptability, elicitation, and eye-tracking experiments. I use R, Python, and Stan for data analysis, as well as jsPsych and JATOS for experimental work.\n\n\n\n\n OSF \n ResearchGate \n ORCID\n\n\n\n\nDownload CV\n\n\n\n\n\n\n\nOutside research, I’m happiest outdoors—inline skating, running, and cycling along the Danube, or hiking in the Alps. In the colder months, I turn to swimming, bouldering, and skiing.\nI also enjoy photography and rarely go anywhere without my camera."
   },
   {
-    "objectID": "about.html#here-are-some-of-my-general-research-interests",
-    "href": "about.html#here-are-some-of-my-general-research-interests",
+    "objectID": "about.html#my-general-research-interests",
+    "href": "about.html#my-general-research-interests",
     "title": "About",
     "section": "",
-    "text": "Ibero-Romance pronominal syntax\nDifferential object marking\nSecond-language acquisition\nStatistical data modelling\nNatural language processing\nForensic linguistics\nExperimental and corpus linguistics\nPsycholinguistics\nSyntax–semantics and syntax–discourse interfaces"
+    "text": "Ibero-Romance pronominal syntax\nDifferential object marking\nSecond-language acquisition\nNatural language processing\nForensic linguistics\nExperimental and corpus linguistics\nSyntax–semantics and syntax–discourse interfaces"
   },
   {
-    "objectID": "about.html#here-is-hopefully-a-current-version-of-my-cv",
-    "href": "about.html#here-is-hopefully-a-current-version-of-my-cv",
+    "objectID": "about.html#academic-background",
+    "href": "about.html#academic-background",
+    "title": "About",
+    "section": "",
+    "text": "2025–present: PhD in Romance Linguistics, University of Vienna. My dissertation examines direct object omission in Peninsular Spanish using quantitative methods.\n2018–2024: Staatsexamen Lehramt Gymnasium in Spanish and English, Catholic University of Eichstätt-Ingolstadt.\n2018–2023: BA in Romance Linguistics, Catholic University of Eichstätt-Ingolstadt."
+  },
+  {
+    "objectID": "about.html#methods-and-tools",
+    "href": "about.html#methods-and-tools",
+    "title": "About",
+    "section": "",
+    "text": "My research combines corpus compilation and annotation with acceptability, elicitation, and eye-tracking experiments. I use R, Python, and Stan for data analysis, as well as jsPsych and JATOS for experimental work."
+  },
+  {
+    "objectID": "about.html#find-my-data-scripts-and-further-material-here",
+    "href": "about.html#find-my-data-scripts-and-further-material-here",
+    "title": "About",
+    "section": "",
+    "text": "OSF \n ResearchGate \n ORCID"
+  },
+  {
+    "objectID": "about.html#a-hopefully-current-version-of-my-cv",
+    "href": "about.html#a-hopefully-current-version-of-my-cv",
     "title": "About",
     "section": "",
     "text": "Download CV"
@@ -25,7 +46,7 @@
     "href": "about.html#beyond-research",
     "title": "About",
     "section": "",
-    "text": "Outside research, I’m usually happiest outdoors. I love inline skating, running, and cycling along the Danube as well as hiking in the Alps. When the weather turns colder, I switch to swimming, bouldering, and skiing.\nI’m also a huge fan of photography and usually take my camera wherever I go."
+    "text": "Outside research, I’m happiest outdoors—inline skating, running, and cycling along the Danube, or hiking in the Alps. In the colder months, I turn to swimming, bouldering, and skiing.\nI also enjoy photography and rarely go anywhere without my camera."
   },
   {
     "objectID": "index.html",
@@ -56,25 +77,32 @@
     "text": "Current research activities\n\n\nSFB Language between Redundancy and Deficiency\n2024 – present\n\n\nSubproject 07 · Deficiency and Redundancy in Ibero-Romance pronominal systems\n\nMy current work examines patterns of pronominal object realisation using experimental and corpus-linguistic evidence from Spain, Portugal, Brazil and Argentina.\nThe project includes the development and implementation of acceptability, elicitation and eye-tracking experiments, as well as the statistical analysis of cross-linguistic and cross-varietal data.\nLearn more about my research →"
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Resources",
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Courses, tutorials, and workshops",
     "section": "",
-    "text": "OSF \n ResearchGate \n ORCID"
+    "text": "Summer term 2026 · Lecturer Exercise course: AR Sprachwissenschaft Spanisch für das Lehramt\n\n\n\n2024 · Workshop teaching\n\nKey statistical concepts for linguistic data analysis\nIntroduction to R and RStudio, data management, and documentation tools\n\n\n\n\n\n\n\n2025–2026 · External lecturer\n\nIntroduction to Spanish linguistics (synchrony)\nIntroduction to Spanish historical linguistics (Medieval Spanish)\n\n\n\n\n2022–2024 · Student teaching assistant Tutorial on common practices in linguistic research\n\n\n\n2021–2024 · Student teaching assistant Tutorial on cognitive linguistics\n\n\n\n2019–2024 · Student teaching assistant Tutorial on Spanish and Latin American literary studies"
   },
   {
-    "objectID": "research.html#find-my-data-scripts-and-further-material-here",
-    "href": "research.html#find-my-data-scripts-and-further-material-here",
-    "title": "Resources",
+    "objectID": "teaching.html#university-of-vienna",
+    "href": "teaching.html#university-of-vienna",
+    "title": "Courses, tutorials, and workshops",
     "section": "",
-    "text": "OSF \n ResearchGate \n ORCID"
+    "text": "Summer term 2026 · Lecturer Exercise course: AR Sprachwissenschaft Spanisch für das Lehramt\n\n\n\n2024 · Workshop teaching\n\nKey statistical concepts for linguistic data analysis\nIntroduction to R and RStudio, data management, and documentation tools"
+  },
+  {
+    "objectID": "teaching.html#catholic-university-of-eichstätt-ingolstadt",
+    "href": "teaching.html#catholic-university-of-eichstätt-ingolstadt",
+    "title": "Courses, tutorials, and workshops",
+    "section": "",
+    "text": "2025–2026 · External lecturer\n\nIntroduction to Spanish linguistics (synchrony)\nIntroduction to Spanish historical linguistics (Medieval Spanish)\n\n\n\n\n2022–2024 · Student teaching assistant Tutorial on common practices in linguistic research\n\n\n\n2021–2024 · Student teaching assistant Tutorial on cognitive linguistics\n\n\n\n2019–2024 · Student teaching assistant Tutorial on Spanish and Latin American literary studies"
   },
   {
     "objectID": "talks.html",
     "href": "talks.html",
     "title": "Talks",
     "section": "",
-    "text": "Entre omisión y doblado – variación en la realización del objeto directo en español y portugués\nDate: 2026\nVenue: Graz (Austria) Event: Tribuna Festival (Universität Graz)\nPresentation of null objects and clitic doubling as our phenomena of interest and the fieldwork experiments conducted in our subproject; discussion of the first results of our cross-variety null object experiments.\nDownload presentation (PDF)\n\n\nPredicting null objects – a quantitative perspective on direct object realisation patterns in Peninsular Spanish\nDate: 2026\nVenue: Zürich (Switzerland) Event: Linguistisches Kolloquium (Universität Zürich)\nPresentation of existing analyses of null objects in Peninsular Spanish and contextualisation in light of first empirical results from experiments and a corpus study (sampled from Youtube podcasts). Discussion of ellipsis approaches to Spanish object omission based on information-structural and pragmatic constraints.\nDownload presentation (PDF)\n\n\nPredicting Direct Object Omission - A Quantitative Approach to Direct Object Realisation Patterns in Contemporary Peninsular Spanish\nDate: 2026\nVenue: Kandersteg (Switzerland) Event: Alpes 6 (Universität Zürich)\nThis talk focuses on the construction of a corpus specifically designed for the analysis of null objects in Spanish. The study addresses criteria for data selection, annotation, and corpus exploitation, with the aim of identifying systematic patterns of direct object omission and assessing the linguistic factors that condition their distribution.\nDownload presentation (PDF)\n\n\nPredicting Direct Object Omission - A Quantitative Approach to Direct Object Realisation Patterns in Contemporary Peninsular Spanish\nDate: 2026\nVenue: Kandersteg (Switzerland) Event: Alpes 6 (Universität Zürich)\nThis talk focuses on the construction of a corpus specifically designed for the analysis of null objects in Spanish. The study addresses criteria for data selection, annotation, and corpus exploitation, with the aim of identifying systematic patterns of direct object omission and assessing the linguistic factors that condition their distribution.\nDownload presentation (PDF)\n\n\nVerb-driven Patterns of Object Omission in the History of Spanish: A Corpus-based Analysis\nDate: 2025\nVenue: Universitat de les Illes Balears (Palma, Spain)\nEvent: Null Objects from a Crosslinguistic and Developmental Perspective\nThis poster presentation gives insights into an ongoing diachronic corpus study of direct object omission in Spanish, based on a newly compiled and annotated corpus of texts from the 12th to the 18th century. It investigates whether verb classes and lexical semantics can predict patterns of null object realization, and evaluates these findings in relation to clitic doubling and existing diachronic accounts.\nDownload presentation (PDF)\n\n\nUn análisis de corpus sobre el marcado diferencial de objeto en hablantes de L2 español con L1 alemán\nDate: 2025\nVenue: Bergische Universität Wuppertal (Wuppertal, Germany)\nEvent: Invited Talk at Jornadas Lingüísticas BUW\nThis talk presents a corpus-based study of the acquisition of Differential Object Marking (DOM) in L2 Spanish by L1 German speakers, comparing learner and native usage. Using multifactorial random forest analyses, it examines the relative impact of semantic, pragmatic, and verbal factors on DOM realisation and omission.\nDownload presentation (PDF)\n\n\nEmpirical Perspectives on the Object Agreement Cycle analysis of different varieties of Spanish\nDate: 2025\nVenue: University of Hamburg (Hamburg, Germany)\nEvent: Deutscher Hispanistentag: Sektion zum Status des Dativs\nThis talk investigates clitic doubling and null objects in Spanish from a diachronic corpus perspective, critically evaluating the Object Agreement Cycle. Drawing on historical data from multiple varieties, it shows that null objects precede and compete with clitic doubling, challenging strictly sequential accounts of object realisation.\nDownload presentation (PDF)"
+    "text": "Entre omisión y doblado – variación en la realización del objeto directo en español y portugués\nDate: 2026\nVenue: Graz (Austria) Event: Tribuna Festival (Universität Graz)\nPresentation of null objects and clitic doubling as our phenomena of interest and the fieldwork experiments conducted in our subproject; discussion of the first results of our cross-variety null object experiments.\nDownload presentation (PDF)\n\n\nPredicting null objects – a quantitative perspective on direct object realisation patterns in Peninsular Spanish\nDate: 2026\nVenue: Zürich (Switzerland) Event: Linguistisches Kolloquium (Universität Zürich)\nPresentation of existing analyses of null objects in Peninsular Spanish and contextualisation in light of first empirical results from experiments and a corpus study (sampled from Youtube podcasts). Discussion of ellipsis approaches to Spanish object omission based on information-structural and pragmatic constraints.\nDownload presentation (PDF)\n\n\nPredicting Direct Object Omission - A Quantitative Approach to Direct Object Realisation Patterns in Contemporary Peninsular Spanish\nDate: 2026\nVenue: Kandersteg (Switzerland) Event: Alpes 6 (Universität Zürich)\nThis talk focuses on the construction of a corpus specifically designed for the analysis of null objects in Spanish. The study addresses criteria for data selection, annotation, and corpus exploitation, with the aim of identifying systematic patterns of direct object omission and assessing the linguistic factors that condition their distribution.\nDownload presentation (PDF)\n\n\nVerb-driven Patterns of Object Omission in the History of Spanish: A Corpus-based Analysis\nDate: 2025\nVenue: Universitat de les Illes Balears (Palma, Spain)\nEvent: Null Objects from a Crosslinguistic and Developmental Perspective\nThis poster presentation gives insights into an ongoing diachronic corpus study of direct object omission in Spanish, based on a newly compiled and annotated corpus of texts from the 12th to the 18th century. It investigates whether verb classes and lexical semantics can predict patterns of null object realization, and evaluates these findings in relation to clitic doubling and existing diachronic accounts.\nDownload presentation (PDF)\n\n\nUn análisis de corpus sobre el marcado diferencial de objeto en hablantes de L2 español con L1 alemán\nDate: 2025\nVenue: Bergische Universität Wuppertal (Wuppertal, Germany)\nEvent: Invited Talk at Jornadas Lingüísticas BUW\nThis talk presents a corpus-based study of the acquisition of Differential Object Marking (DOM) in L2 Spanish by L1 German speakers, comparing learner and native usage. Using multifactorial random forest analyses, it examines the relative impact of semantic, pragmatic, and verbal factors on DOM realisation and omission.\nDownload presentation (PDF)\n\n\nEmpirical Perspectives on the Object Agreement Cycle analysis of different varieties of Spanish\nDate: 2025\nVenue: University of Hamburg (Hamburg, Germany)\nEvent: Deutscher Hispanistentag: Sektion zum Status des Dativs\nThis talk investigates clitic doubling and null objects in Spanish from a diachronic corpus perspective, critically evaluating the Object Agreement Cycle. Drawing on historical data from multiple varieties, it shows that null objects precede and compete with clitic doubling, challenging strictly sequential accounts of object realisation.\nDownload presentation (PDF)\n\n\nRedundancy and Deficiency in Spanish and Catalan Pronominal Systems\nDate: 2024 Venue: University of Vienna (Vienna, Austria) Event: Jornades de Lingüística Catalana\n\n\nRedundancy and Deficiency in Spanish and Portuguese Pronominal Systems\nDate: 2024 Venue: University of Vienna (Vienna, Austria) Event: Workshop: New Approaches to Clitics and Beyond\n\n\nNew findings on DOM in the L2 Spanish of L1 German Speakers\nDate: 2023 Venue: Catholic University of Eichstätt-Ingolstadt (Eichstätt, Germany) Event: Interdisziplinäres Sprachwissenschaftliches Forschungskolloquium der Anglistik, Germanistik und Romanistik\n\n\nA Corpus Study on DOM in the L2 Spanish of L1 German Speakers\nDate: 2023 Venue: University of Graz (Graz, Austria) Event: Deutscher Hispanistentag, Sektion zur Schnittstelle zwischen Linguistik und Didaktik\n\n\nPresent Progressives in Jamaican and East African English\nDate: 2022 Venue: Augsburg, Germany Event: FJUEL – Forum Junge Englisch Linguistik"
   },
   {
     "objectID": "publications.html",

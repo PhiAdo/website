@@ -1,5 +1,58 @@
 ---
-title: "Teaching"
-editor: visual
-jupyter: python3
+title: "Courses, tutorials, and workshops"
 ---
+
+::: content-container
+
+## University of Vienna
+
+
+::: teaching-item
+### Spanish linguistics for teacher education
+
+**Summer term 2026 · Lecturer**<br>
+Exercise course: *AR Sprachwissenschaft Spanisch für das Lehramt*
+:::
+
+::: teaching-item
+### SFB Statistics Workshop
+
+**2024 · Workshop teaching**
+
+- Key statistical concepts for linguistic data analysis
+- Introduction to R and RStudio, data management, and documentation tools
+:::
+
+## Catholic University of Eichstätt-Ingolstadt
+
+::: teaching-item
+### Spanish linguistics
+
+**2025–2026 · External lecturer**
+
+- Introduction to Spanish linguistics (synchrony)
+- Introduction to Spanish historical linguistics (Medieval Spanish)
+:::
+
+::: teaching-item
+### Romance linguistics
+
+**2022–2024 · Student teaching assistant**<br>
+Tutorial on common practices in linguistic research
+:::
+
+::: teaching-item
+### English linguistics
+
+**2021–2024 · Student teaching assistant**<br>
+Tutorial on cognitive linguistics
+:::
+
+::: teaching-item
+### Romance literary studies
+
+**2019–2024 · Student teaching assistant**<br>
+Tutorial on Spanish and Latin American literary studies
+:::
+
+:::

@@ -5,7 +5,7 @@ page-layout: full
 
 ::: {.content-container}
 
-## Here are (some of) my general research interests {.section-title}
+## My general research interests {.section-title}
 
 ::: {.about-grid}
 
@@ -15,11 +15,9 @@ page-layout: full
 - Ibero-Romance pronominal syntax
 - Differential object marking
 - Second-language acquisition
-- Statistical data modelling
 - Natural language processing
 - Forensic linguistics
 - Experimental and corpus linguistics
-- Psycholinguistics
 - Syntax–semantics and syntax–discourse interfaces
 
 :::
@@ -32,7 +30,29 @@ page-layout: full
 
 :::
 
-## Here is (hopefully a current version of) my CV {.section-title}
+## Academic background {.section-title}
+
+- **2025–present:** PhD in Romance Linguistics, University of Vienna. My dissertation examines direct object omission in Peninsular Spanish using quantitative methods.
+- **2018–2024:** *Staatsexamen Lehramt Gymnasium* in Spanish and English, Catholic University of Eichstätt-Ingolstadt.
+- **2018–2023:** BA in Romance Linguistics, Catholic University of Eichstätt-Ingolstadt.
+
+## Methods and tools {.section-title}
+
+My research combines corpus compilation and annotation with acceptability, elicitation, and eye-tracking experiments. I use R, Python, and Stan for data analysis, as well as jsPsych and JATOS for experimental work.
+
+## Find my data, scripts, and further material here:
+
+::: contact-info
+
+{{< iconify simple-icons:osf >}} [OSF](https://osf.io/wrq2a/) <br>
+
+{{< iconify academicons:researchgate-square >}} [ResearchGate](https://www.researchgate.net/profile/Philippa-Adolf-3?ev=hdr_xprf) <br>
+
+{{< iconify simple-icons:orcid >}} [ORCID](https://orcid.org/0009-0006-3710-7030)
+
+:::
+
+## A (hopefully) current version of my CV {.section-title}
 
 [Download CV](material/cv_typst.pdf){.btn .btn-primary}
 
@@ -40,6 +60,7 @@ page-layout: full
   src="material/cv_typst.pdf"
   width="80%"
   height="800"
+  loading="lazy"
   title="Curriculum vitae of Philippa Adolf"
   class="cv-frame">
 </iframe>
@@ -50,9 +71,10 @@ page-layout: full
 
 ::: {.about-text}
 
-Outside research, I’m usually happiest outdoors. I love inline skating, running, and cycling along the Danube as well as hiking in the Alps. When the weather turns colder, I switch to swimming, bouldering, and skiing. 
+Outside research, I’m happiest outdoors—inline skating, running, and cycling along the Danube, or hiking in the Alps. In the colder months, I turn to swimming, bouldering, and skiing.
 
-I'm also a huge fan of photography and usually take my camera wherever I go.
+I also enjoy photography and rarely go anywhere without my camera.
+
 :::
 
 ::: {.photo-gallery}

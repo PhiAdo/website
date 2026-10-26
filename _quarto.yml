@@ -13,12 +13,12 @@ website:
         text: Home
       - href: about.qmd
         text: About
-      - href: research.qmd
-        text: Resources
       - href: publications.qmd
         text: Publications
       - href: talks.qmd
         text: Talks
+      - href: teaching.qmd
+        text: Teaching
 
   page-footer:
     center: "© 2026 Philippa Adolf · University of Vienna"

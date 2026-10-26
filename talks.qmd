@@ -43,18 +43,6 @@ This talk focuses on the construction of a corpus specifically designed for the 
 :::
 
 ::: talk-item
-### Predicting Direct Object Omission - A Quantitative Approach to Direct Object Realisation Patterns in Contemporary Peninsular Spanish  
-
-**Date:** 2026  
-**Venue:** Kandersteg (Switzerland)<br>
-**Event:** Alpes 6 (Universität Zürich)
-
-This talk focuses on the construction of a corpus specifically designed for the analysis of null objects in Spanish. The study addresses criteria for data selection, annotation, and corpus exploitation, with the aim of identifying systematic patterns of direct object omission and assessing the linguistic factors that condition their distribution.
-
-[Download presentation (PDF)](/material/Alpes6_Kandersteg_PA.pdf){.btn .btn-primary}
-:::
-
-::: talk-item
 ### Verb-driven Patterns of Object Omission in the History of Spanish: A Corpus-based Analysis
 
 **Date:** 2025  
@@ -89,6 +77,46 @@ This talk presents a corpus-based study of the acquisition of Differential Objec
 This talk investigates clitic doubling and null objects in Spanish from a diachronic corpus perspective, critically evaluating the Object Agreement Cycle. Drawing on historical data from multiple varieties, it shows that null objects precede and compete with clitic doubling, challenging strictly sequential accounts of object realisation.
 
 [Download presentation (PDF)](/material/NO_diachrony_Hispanistentag.pdf){.btn .btn-primary}
+:::
+
+::: talk-item
+### Redundancy and Deficiency in Spanish and Catalan Pronominal Systems
+
+**Date:** 2024<br>
+**Venue:** University of Vienna (Vienna, Austria)<br>
+**Event:** Jornades de Lingüística Catalana
+:::
+
+::: talk-item
+### Redundancy and Deficiency in Spanish and Portuguese Pronominal Systems
+
+**Date:** 2024<br>
+**Venue:** University of Vienna (Vienna, Austria)<br>
+**Event:** Workshop: New Approaches to Clitics and Beyond
+:::
+
+::: talk-item
+### New findings on DOM in the L2 Spanish of L1 German Speakers
+
+**Date:** 2023<br>
+**Venue:** Catholic University of Eichstätt-Ingolstadt (Eichstätt, Germany)<br>
+**Event:** Interdisziplinäres Sprachwissenschaftliches Forschungskolloquium der Anglistik, Germanistik und Romanistik
+:::
+
+::: talk-item
+### A Corpus Study on DOM in the L2 Spanish of L1 German Speakers
+
+**Date:** 2023<br>
+**Venue:** University of Graz (Graz, Austria)<br>
+**Event:** Deutscher Hispanistentag, Sektion zur Schnittstelle zwischen Linguistik und Didaktik
+:::
+
+::: talk-item
+### Present Progressives in Jamaican and East African English
+
+**Date:** 2022<br>
+**Venue:** Augsburg, Germany<br>
+**Event:** FJUEL – Forum Junge Englisch Linguistik
 :::
 
 :::

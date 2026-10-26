@@ -16,13 +16,10 @@ title-block-banner: false
 Research assistant and doctoral candidate
 </p>
 
-<p class="hero-description">
-I am a linguist specialising in the syntax-semantics of Ibero-Romance pronominal systems through data-driven, quantitative research.
-
-</p>
+<p class="hero-description">I am a linguist specialising in the syntax-semantics of Ibero-Romance pronominal systems through data-driven, quantitative research.</p>
 
 ::: {.hero-actions}
-[Research](research.qmd){.btn .btn-primary}
+[Research](about.qmd){.btn .btn-primary}
 [Publications](publications.qmd){.btn .btn-outline-primary}
 [Download CV](material/cv_typst.pdf){.btn .btn-outline-primary}
 :::
@@ -64,18 +61,14 @@ More broadly, I am interested in how empirical linguistic data can be used to ex
 ::: {.contact-card}
 <p class="card-label">Contact</p>
 
-{{< iconify hugeicons:university >}}
-[Department of Romance Studies](https://ucrisportal.univie.ac.at/de/persons/philippa-adolf)
+{{< iconify hugeicons:university >}} [Department of Romance Studies](https://ucrisportal.univie.ac.at/de/persons/philippa-adolf)
 
-{{< iconify entypo:address >}}
-Spitalgasse 2, Hof 8  
+{{< iconify entypo:address >}} Spitalgasse 2, Hof 8<br>
 1090 Vienna, Austria
 
-{{< iconify ic:outline-email >}}
-[philippa.adolf@univie.ac.at](mailto:philippa.adolf@univie.ac.at)
+{{< iconify ic:outline-email >}} [philippa.adolf@univie.ac.at](mailto:philippa.adolf@univie.ac.at)
 
-{{< iconify mdi:linkedin >}}
-[LinkedIn](https://www.linkedin.com/in/philippa-adolf-66a379268/)
+{{< iconify mdi:linkedin >}} [LinkedIn](https://www.linkedin.com/in/philippa-adolf-66a379268/)
 :::
 
 :::
@@ -101,7 +94,7 @@ The project includes the development and implementation of acceptability,
 elicitation and eye-tracking experiments, as well as the statistical
 analysis of cross-linguistic and cross-varietal data.
 
-[Learn more about my research →](research.qmd){.text-link}
+[Learn more about my research →](about.qmd){.text-link}
 :::
 
 
