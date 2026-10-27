@@ -17,12 +17,13 @@ $shadow-soft: 0 3px 10px rgba(18, 58, 38, 0.07),
 $shadow-raised: 0 10px 24px rgba(18, 58, 38, 0.12),
   0 24px 42px -24px rgba(18, 58, 38, 0.36) !default;
 
-$primary: $dark-green !default;
+$primary: $body-color !default;
 $body-bg: $off-white !default;
 
 $font-family-base: 'Source Sans Pro', sans-serif !default;
 $headings-font-family: 'Source Sans Pro', sans-serif !default;
 $headings-font-weight: 600 !default;
+$headings-color: $dark-green !default;
 
 $font-size-base: 1rem !default;
 $body-text-size: 1.2rem !default;
@@ -68,7 +69,10 @@ a {
 
 h1,
 h2,
-h3 {
+h3,
+h4,
+h5,
+h6 {
   color: $dark-green;
 }
 
@@ -173,6 +177,10 @@ h2 {
   text-transform: uppercase;
 }
 
+.card-label {
+  color: $body-color;
+}
+
 .hero-subtitle {
   margin-bottom: 1.5rem;
   color: rgba(255, 255, 255, 0.92);
@@ -208,7 +216,7 @@ h2 {
 }
 
 .hero-actions .btn-primary {
-  color: $dark-green;
+  color: $body-color;
   background-color: $white;
   border-color: $white;
 }
@@ -225,7 +233,7 @@ h2 {
 }
 
 .hero-actions .btn-outline-primary:hover {
-  color: $dark-green;
+  color: $body-color;
   background-color: $white;
   border-color: $white;
 }
@@ -268,7 +276,7 @@ h2 {
   margin-bottom: 4.5rem;
 }
 
-.section-title {
+h2.section-title {
   margin-top: 0;
   margin-bottom: 1.75rem;
   padding-bottom: 0.75rem;
@@ -277,7 +285,7 @@ h2 {
   font-size: clamp(1.45rem, 2vw, 1.8rem);
 }
 
-.section-title::after {
+h2.section-title::after {
   display: block;
   width: 48px;
   height: 3px;
@@ -459,7 +467,7 @@ details {
 }
 
 summary {
-  color: $dark-green;
+  color: $body-color;
   cursor: pointer;
   font-weight: 600;
 }
